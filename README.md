@@ -8,6 +8,8 @@ For now, I've only tested it on a Valeton GP-100 firmware 1.7.
 
 Feel free to report bugs. If you own a GP-200/LT, send me a presets file and I'll try to take a look at it.
 
+![GP Preset Sorter GUI](https://i.ibb.co/KX7mm2z/GPpresetorder-gui.png)
+
 **Instructions**
 ----------
 1. File > Import presets file
