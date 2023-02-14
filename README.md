@@ -14,4 +14,4 @@ Feel free to report bugs. If you own a GP-200/LT, send me a presets file and I'l
 4. Import the new exported presets file using the official Valeton software
 
 **Download**
-You can find the latest version [here](/releases)
+You can find the latest version [here](https://github.com/ciyi/Valeton-GP-Preset-Sorter/releases)
